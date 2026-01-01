@@ -1,0 +1,7 @@
+{
+  "name": "Tokyo Gourmet Guide",
+  "description": "A premium restaurant finder for Tokyo using Google Maps Grounding to provide real-time data, ratings, and directions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
